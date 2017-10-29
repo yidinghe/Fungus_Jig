@@ -4,4 +4,37 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/01 Opening Scene.unity
+    guid: 693ba9e1891114b1c8c3623d58d3cffb
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/02 pick a Jig Scene.unity
+    guid: f181c571b459940bc95ef2234752027c
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/03 Intro Drop Scene.unity
+    guid: b569a67217308432983a44d95472bc19
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/04 Drop Scene.unity
+    guid: aee30f604353ff84590306d7b1671609
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/05 Specific Pick Scene.unity
+    guid: 21420f579c6344dd4af65e6011e76c7c
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/06 Jig 01 Scene.unity
+    guid: f9b4d60a84dcc4c05af0199dab19f096
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/07 Jig 02 Scene.unity
+    guid: f4b2ed43d7d6d48bf8a552afcc21a2b1
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/08 Jig 03 Scene.unity
+    guid: e0b67deefb1f54803bbadd0e7f709990
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/09 Jig 04 Scene.unity
+    guid: 029bad64f5e6b40f9877b1a7ae9b22b9
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/10 Jig 05 Scene.unity
+    guid: 2ac9fbcfd601847c3b2a20cccff0ca5e
+  - enabled: 1
+    path: Assets/00 Puzzle Project/0 Scenes/11 Credits Scene.unity
+    guid: fd8a244410ca5491da8660f6b22a0174
