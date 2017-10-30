@@ -1141,6 +1141,9 @@ GameObject:
   - component: {fileID: 931686596}
   - component: {fileID: 931686594}
   - component: {fileID: 931686642}
+  - component: {fileID: 931686643}
+  - component: {fileID: 931686645}
+  - component: {fileID: 931686644}
   m_Layer: 0
   m_Name: Flowchart_Scene_1
   m_TagString: Untagged
@@ -1161,21 +1164,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 546.0268, y: 69.39893}
+  scrollPos: {x: 764.8929, y: 68.798706}
   variablesScrollPos: {x: 0, y: 0}
-  variablesExpanded: 1
+  variablesExpanded: 0
   blockViewHeight: 367
-  zoom: 0.8800001
+  zoom: 0.6100004
   scrollViewRect:
     serializedVersion: 2
     x: -799.8684
     y: -410.3866
     width: 2437.7603
     height: 1417.3672
-  selectedBlocks:
-  - {fileID: 931686748}
-  selectedCommands:
-  - {fileID: 931686750}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 931686738}
   - {fileID: 931686599}
@@ -1309,9 +1310,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 188.8948
-    y: 49.130646
-    width: 124.99999
+    x: 198.73087
+    y: 68.802765
+    width: 122.1311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1373,9 +1374,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 187.89487
-    y: 136.43425
-    width: 136.36362
+    x: 191.17355
+    y: 172.4998
+    width: 130.32782
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1401,9 +1402,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 188.80905
-    y: 214.17012
-    width: 129.54544
+    x: 192.08774
+    y: 246.95699
+    width: 122.1311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1579,7 +1580,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -196.35901
     y: 179.04955
-    width: 132.95453
+    width: 122.1311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1936,7 +1937,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -375.19122
     y: 68.34512
-    width: 167.04544
+    width: 153.27863
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2407,7 +2408,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &931686642
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 931686580}
@@ -2423,6 +2424,58 @@ MonoBehaviour:
   interactableState:
     booleanRef: {fileID: 0}
     booleanVal: 0
+--- !u!114 &931686643
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 931686580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -3.4826527
+    y: 65.90826
+    width: 120
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 201
+  blockName: Escape
+  description: 
+  eventHandler: {fileID: 931686645}
+  commandList:
+  - {fileID: 931686644}
+--- !u!114 &931686644
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 931686580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e1337544a71d4d5dab5510fe86ddca8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 202
+  indentLevel: 0
+--- !u!114 &931686645
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 931686580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 000864f8e9e1748a39807861d0e60e29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 931686643}
+  keyPressType: 0
+  keyCode: 27
 --- !u!114 &931686738
 MonoBehaviour:
   m_ObjectHideFlags: 2
