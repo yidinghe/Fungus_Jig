@@ -2249,8 +2249,9 @@ MonoBehaviour:
     width: 2562.5295
     height: 1387.8826
   selectedBlocks:
-  - {fileID: 931686589}
-  selectedCommands: []
+  - {fileID: 931686599}
+  selectedCommands:
+  - {fileID: 931686615}
   variables:
   - {fileID: 931686738}
   - {fileID: 931686790}
@@ -3040,7 +3041,7 @@ MonoBehaviour:
   indentLevel: 0
   _targetObject:
     gameObjectRef: {fileID: 0}
-    gameObjectVal: {fileID: 2085362321}
+    gameObjectVal: {fileID: 714270409}
   _tweenName:
     stringRef: {fileID: 0}
     stringVal: 
