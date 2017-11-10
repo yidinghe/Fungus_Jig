@@ -1926,7 +1926,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: 45c5f133ed1094231b9cf23ed2e428ea, type: 3}
     m_FontSize: 66
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 3
     m_MaxSize: 66
@@ -1936,9 +1936,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Next
-
-'
+  m_Text: HOME
 --- !u!222 &848146887
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6329,7 +6327,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1213.646
     y: 356.498
-    width: 162.00893
+    width: 155.51566
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7474,7 +7472,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: 45c5f133ed1094231b9cf23ed2e428ea, type: 3}
     m_FontSize: 66
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 3
     m_MaxSize: 66
@@ -7484,9 +7482,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Back
-
-'
+  m_Text: BACK
 --- !u!222 &1131898605
 CanvasRenderer:
   m_ObjectHideFlags: 0

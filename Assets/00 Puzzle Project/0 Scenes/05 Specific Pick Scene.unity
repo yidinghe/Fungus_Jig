@@ -622,9 +622,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Home
-
-'
+  m_Text: HOME
 --- !u!222 &233723053
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7198,9 +7196,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Play Again
-
-'
+  m_Text: TEXT
 --- !u!222 &868983791
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8810,9 +8806,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Start
-
-'
+  m_Text: START
 --- !u!222 &2009261816
 CanvasRenderer:
   m_ObjectHideFlags: 0

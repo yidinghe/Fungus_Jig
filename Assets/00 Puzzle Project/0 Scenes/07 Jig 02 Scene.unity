@@ -472,7 +472,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: 45c5f133ed1094231b9cf23ed2e428ea, type: 3}
     m_FontSize: 66
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 3
     m_MaxSize: 66
@@ -482,9 +482,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Back
-
-'
+  m_Text: BACK
 --- !u!222 &139443807
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2368,7 +2366,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 865.62805
     y: 122.76732
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2414,7 +2412,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 689.5939
     y: 122.08301
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2490,7 +2488,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 373.8108
     y: 121.994675
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2517,7 +2515,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 864.89966
     y: 183.96968
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2577,7 +2575,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 686.24365
     y: 183.28531
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2653,7 +2651,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 375.7096
     y: 186.3247
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2789,7 +2787,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 374.27017
     y: 311.5054
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3607,7 +3605,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 867.1335
     y: 309.8143
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3653,7 +3651,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 683.34937
     y: 313.4519
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3893,7 +3891,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 864.22644
     y: 251.74425
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3939,7 +3937,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 681.62836
     y: 253.8269
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4064,7 +4062,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 374.7621
     y: 248.2548
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4454,7 +4452,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 867.72797
     y: 436.02164
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4538,7 +4536,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 684.68384
     y: 439.7002
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4701,7 +4699,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 373.0582
     y: 443.40112
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4906,7 +4904,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 866.10474
     y: 372.5218
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4990,7 +4988,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 683.65485
     y: 372.1184
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5153,7 +5151,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 374.51672
     y: 376.7374
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5274,7 +5272,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 868.9582
     y: 553.0502
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5442,7 +5440,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 678.5278
     y: 554.5663
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5605,7 +5603,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 374.42422
     y: 555.23254
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5810,7 +5808,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 872.2752
     y: 497.5936
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5894,7 +5892,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 681.8101
     y: 497.6678
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6057,7 +6055,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 372.70673
     y: 503.40323
-    width: 174.59018
+    width: 171.3115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6331,7 +6329,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1213.646
     y: 356.498
-    width: 163.11476
+    width: 156.55739
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8063,7 +8061,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: 45c5f133ed1094231b9cf23ed2e428ea, type: 3}
     m_FontSize: 66
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 3
     m_MaxSize: 66
@@ -8073,9 +8071,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Next
-
-'
+  m_Text: HOME
 --- !u!222 &1645293410
 CanvasRenderer:
   m_ObjectHideFlags: 0
