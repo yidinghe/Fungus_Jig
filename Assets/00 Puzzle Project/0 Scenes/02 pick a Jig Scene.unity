@@ -1108,6 +1108,9 @@ GameObject:
   - component: {fileID: 872899529}
   - component: {fileID: 872899528}
   - component: {fileID: 872899527}
+  - component: {fileID: 872899532}
+  - component: {fileID: 872899533}
+  - component: {fileID: 872899534}
   m_Layer: 0
   m_Name: Flowchart_PickaJig
   m_TagString: Untagged
@@ -1140,7 +1143,7 @@ MonoBehaviour:
     width: 1767.307
     height: 1191.519
   selectedBlocks:
-  - {fileID: 872899435}
+  - {fileID: 872899532}
   selectedCommands: []
   variables:
   - {fileID: 872899427}
@@ -4022,6 +4025,58 @@ MonoBehaviour:
   targetAlpha:
     floatRef: {fileID: 0}
     floatVal: 0
+--- !u!114 &872899532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 872899401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 521.1677
+    y: -5.865619
+    width: 120
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 203
+  blockName: Back
+  description: 
+  eventHandler: {fileID: 872899534}
+  commandList:
+  - {fileID: 872899533}
+--- !u!114 &872899533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 872899401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e1337544a71d4d5dab5510fe86ddca8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 210
+  indentLevel: 0
+--- !u!114 &872899534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 872899401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 000864f8e9e1748a39807861d0e60e29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 872899532}
+  keyPressType: 0
+  keyCode: 27
 --- !u!1 &1095461792
 GameObject:
   m_ObjectHideFlags: 0

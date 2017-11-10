@@ -2319,8 +2319,7 @@ MonoBehaviour:
     y: -380.90195
     width: 2562.5295
     height: 1387.8826
-  selectedBlocks:
-  - {fileID: 931686599}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 931686738}
