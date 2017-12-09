@@ -1243,7 +1243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 764.8929, y: 68.798706}
+  scrollPos: {x: 530.4668, y: 72.07739}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 0
   blockViewHeight: 367
@@ -1255,8 +1255,9 @@ MonoBehaviour:
     width: 2437.7603
     height: 1417.3672
   selectedBlocks:
-  - {fileID: 931686600}
-  selectedCommands: []
+  - {fileID: 931686583}
+  selectedCommands:
+  - {fileID: 931686655}
   variables:
   - {fileID: 931686738}
   - {fileID: 931686599}
@@ -1396,7 +1397,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 200.37021
     y: 68.802765
-    width: 120
+    width: 122.1311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1461,7 +1462,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 191.17355
     y: 172.4998
-    width: 128.68848
+    width: 130.32782
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1490,7 +1491,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 195.36642
     y: 251.875
-    width: 120.49176
+    width: 122.1311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1667,7 +1668,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -196.35901
     y: 179.04955
-    width: 120.49176
+    width: 122.1311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2027,7 +2028,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -375.19122
     y: 68.34512
-    width: 151.63928
+    width: 153.27863
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2788,7 +2789,7 @@ MonoBehaviour:
     booleanVal: 1
   duration:
     floatRef: {fileID: 0}
-    floatVal: 1
+    floatVal: 0.3
   fadeMode: 0
   targetColor:
     colorRef: {fileID: 0}
@@ -2834,7 +2835,7 @@ MonoBehaviour:
     booleanVal: 1
   duration:
     floatRef: {fileID: 0}
-    floatVal: 1
+    floatVal: 0.3
   fadeMode: 0
   targetColor:
     colorRef: {fileID: 0}
